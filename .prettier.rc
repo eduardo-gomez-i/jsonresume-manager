@@ -1,0 +1,6 @@
+{
+    "printWith": 80,
+    "tabWith": 2,
+    "singleQuote": true,
+    "trailingComma": "es5",
+}
